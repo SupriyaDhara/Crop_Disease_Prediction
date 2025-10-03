@@ -22,7 +22,7 @@ pip install -r requirements.txt
 # 5. Run the Streamlit app
 streamlit run app.py
 
-**Usage**
+**Usage** **-**
 Upload a crop leaf image through the interface.
 The model will analyze the image.
 You’ll get the predicted disease
